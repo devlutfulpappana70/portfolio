@@ -1,0 +1,36 @@
+== Changelog ==
+
+
+= 1.1.0 - 2025-01-22 =
+* Tweak: Improve importer.
+* Tweak: Improve security.
+* Bug Fix: Fixed translations in theme.
+
+
+= 1.0.4 - 2024-12-26 =
+* Tweak: Improved demo content import process.
+* Bug Fix: Fixed responsive for latest events.
+* Bug Fix: Fixed elementor editor for user roles.
+* Bug Fix: Fixed Forminator post types registration.
+
+
+= 1.0.3 - 2024-10-22 =
+* Tweak: Added logger for theme.
+* Tweak: Optimized installer.
+* Tweak: Optimized scripts running.
+* Tweak: Replaced unsafe methods.
+* Tweak: Added message for plugins page in installer.
+* Bug Fix: Fixed plugins redirection on installation.
+
+
+= 1.0.2 - 2024-10-09 =
+* Tweak: Add possibility to loading installation log.
+* Bug Fix: Fixed duplication on import.
+
+
+= 1.0.1 - 2024-10-02 =
+* Adding Envato Elements activation.
+
+
+= 1.0.0 - 2024-08-28 =
+* Release
